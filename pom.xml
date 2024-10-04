@@ -14,7 +14,7 @@
 	<licenses>
 		<license>
 			<name>Apache License</name>
-			<url></url>
+			<url/>
 			<distribution>repo</distribution>
 		</license>
 	</licenses>
@@ -30,7 +30,7 @@
 		<hive.version>0.8.0</hive.version>
 		<pig.version>0.8.0</pig.version>
 		<mockito.version>1.8.1</mockito.version>
-		<avro.version>1.4.1</avro.version>
+		<avro.version>1.11.4</avro.version>
 		<mysql.connector.version>5.1.13</mysql.connector.version>
 		<jackson.version>1.4.0</jackson.version>
 		<commons-net.version>1.4.1</commons-net.version>
@@ -39,7 +39,7 @@
 		<junit.version>4.5</junit.version>
 		<compileSource>1.6</compileSource>
 		<maven-compiler-plugin.version>2.3.2</maven-compiler-plugin.version>
-		<avro.version>1.4.1</avro.version>
+		<avro.version>1.11.4</avro.version>
 	</properties>
 	<profiles>
 		<profile>
